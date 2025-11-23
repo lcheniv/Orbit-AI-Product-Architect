@@ -57,7 +57,7 @@ const KanbanBoard: React.FC<KanbanBoardProps> = ({ data, onUpdateStatus, onSelec
   };
 
   return (
-    <div className="w-full h-full px-6 pb-6 pt-24 flex flex-col overflow-hidden animate-in fade-in duration-500">
+    <div className="w-full h-full px-6 pb-6 pt-36 flex flex-col overflow-hidden animate-in fade-in duration-500">
       
       {/* Action Bar */}
       <div className="flex justify-between items-center mb-6">
