@@ -1,0 +1,5 @@
+{
+  "name": "Orbit: AI Product Architect",
+  "description": "A space-themed visualization tool for PM/POs to instantly generate SAFe artifacts (Epics, Features, Stories) from raw ideas using Gemini AI.",
+  "requestFramePermissions": []
+}
